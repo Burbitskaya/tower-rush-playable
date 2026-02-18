@@ -1,2 +1,3 @@
-# tower-rush-playable
-HTML5 Playable Ad
+# Tower Rush
+HTML5 Playable Ads
+---
